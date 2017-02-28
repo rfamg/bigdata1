@@ -28,3 +28,5 @@ library(grid)
 library(extrafont)
 
 # Question one
+
+#QUESTION 2
